@@ -42,7 +42,7 @@ const Navegacion = () => {
                 isActive ? activeStyle : undefined
               }
           >
-            Lista Articulos
+            Lista de Articulos
           </NavLink>
         </nav>
     </div>
